@@ -7,4 +7,16 @@ All my LeetCode process :)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ser1ousGIT/Leet-Code/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ser1ousGIT/Leet-Code/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ser1ousGIT/Leet-Code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ser1ousGIT/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
