@@ -1,5 +1,5 @@
 # Leet-Code
-All my LeetCode process :)
+All my LeetCode progress :)
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
